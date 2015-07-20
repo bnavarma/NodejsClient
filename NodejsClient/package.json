@@ -1,0 +1,10 @@
+{
+  "name": "NodejsClient",
+  "version": "0.0.0",
+  "description": "NodejsClient",
+  "main": "app.js",
+  "author": {
+    "name": "Avinash",
+    "email": ""
+  }
+}
